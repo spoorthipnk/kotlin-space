@@ -1,5 +1,5 @@
 # kotlin-space
-### This is a project to learn all new things Android and play around with mainly the following -
+### This is a project to learn all new things Android and play around with the following -
 * Kotlin
 * Advanced RxJava
 * Android Jetpack
